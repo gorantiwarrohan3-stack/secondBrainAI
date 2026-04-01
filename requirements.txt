@@ -1,0 +1,9 @@
+google-generativeai
+chromadb
+streamlit
+pypdfium2
+pillow
+python-dotenv
+openai-whisper  # or faster-whisper
+imageio
+imageio-ffmpeg
