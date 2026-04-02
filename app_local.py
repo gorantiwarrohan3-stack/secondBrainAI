@@ -160,5 +160,4 @@ if uploaded is not None:
         for p, summary in zip(image_paths, frame_summaries):
             with st.expander(p.name):
                 st.caption(f"Source: {p}")
-                st.write(summary)</content>
-<parameter name="filePath">/Users/sanchitvartak/Desktop/Spring26/AI_BNgan/ai-project/secondBrainAI/app_local.py
+                st.write(summary)
