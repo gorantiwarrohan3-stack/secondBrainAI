@@ -16,5 +16,4 @@ openai-whisper
 ollama
 
 # Optional: Vector database for RAG
-chromadb</content>
-<parameter name="filePath">/Users/sanchitvartak/Desktop/Spring26/AI_BNgan/ai-project/secondBrainAI/requirements_local.txt
+chromadb
